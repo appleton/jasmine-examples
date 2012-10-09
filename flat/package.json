@@ -1,0 +1,14 @@
+{
+  "name": "jasmine-example",
+  "author": "Andy Appleton",
+  "homepage": "http://github.com/mrappleton/jasmine-example",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrappleton/jasmine-example.git"
+  },
+  "dependencies": {
+    "grunt": "latest",
+    "grunt-jasmine-runner": "latest"
+  }
+}
