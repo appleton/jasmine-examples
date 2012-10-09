@@ -14,6 +14,10 @@ Clone the repo and cd into the folder you're interested in, e.g:
     git clone git@github.com:mrappleton/jasmine-examples.git
     cd jasmine-examples/flat
 
+Install Grunt globally:
+
+    npm install -g grunt
+
 Install NPM dependencies:
 
     npm install
