@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "test": "cd flat && ./node_modules/grunt-jasmine-server/node_modules/.bin/grunt jasmine"
+  }
+}
