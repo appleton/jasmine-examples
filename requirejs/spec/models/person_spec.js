@@ -1,5 +1,5 @@
 define(function(require){
-  var Person = require('src/models/person')
+  var Person = require('src/models/person');
   describe('Person model', function(){
 
     beforeEach(function(){

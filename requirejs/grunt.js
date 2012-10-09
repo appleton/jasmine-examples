@@ -34,17 +34,15 @@ module.exports = function(grunt) {
         browser: true
       },
       globals: {
-        // Libraries
-        Backbone: true,
-        _: true,
-        $: true,
+        // Requirejs
+        require: true,
+        requirejs: true,
+        define: true,
         // Jasmine
         it: true,
         describe: true,
         beforeEach: true,
-        expect: true,
-        // Modules
-        Person: true
+        expect: true
       }
     }
   });
