@@ -8,6 +8,6 @@
     "url": "git://github.com/mrappleton/jasmine-example.git"
   },
   "dependencies": {
-    "grunt-jasmine-runner": "git://github.com/mrappleton/grunt-jasmine-runner.git#requirejs"
+    "grunt-jasmine-runner": "latest"
   }
 }
