@@ -1,6 +1,6 @@
 # Running tests with Jasmine and Grunt
 
-This repo contains two simple examples of executing [Jamsine](http://pivotal.github.com/jasmine/) specs in [PhantomJS](http://phantomjs.org/) via [Grunt](http://gruntjs.com/) with the [grunt-jasmine-runner](https://npmjs.org/package/grunt-jasmine-runner) task.
+This repo contains two simple examples of executing [Jamsine](https://jasmine.github.io/) specs in [PhantomJS](http://phantomjs.org/) via [Grunt](http://gruntjs.com/) with the [grunt-jasmine-runner](https://npmjs.org/package/grunt-jasmine-runner) task.
 
 The `flat/` directory shows a simple example, and the `requirejs/` directory also includes [RequireJS](http://requirejs.org/).
 
